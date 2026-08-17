@@ -35,11 +35,15 @@
 </table>
 
 <h2>🧰 Tech Stack</h2>
-
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,azure,docker,kubernetes&theme=dark&animate=true&perline=4" width="58" height="58" alt="core stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="58" height="58" alt="python" />
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="58" height="58" alt="azure" />
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="58" height="58" alt="docker" />
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark&animate=true" width="58" height="58" alt="kubernetes" />
 </div>
-
 <br/>
 
 <table align="center">
