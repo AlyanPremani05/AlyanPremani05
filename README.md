@@ -22,10 +22,6 @@
   <a href="https://github.com/AlyanPremani05?tab=followers"><img src="https://img.shields.io/github/followers/AlyanPremani05?label=Followers&style=for-the-badge&color=0077B5&logo=github" alt="Followers" /></a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote" />
-</p>
-
 <h2>👋 Who I Am</h2>
 <table align="center">
   <tr>
@@ -41,13 +37,7 @@
 <h2>🧰 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="azure" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,azure,docker,kubernetes&theme=dark&animate=true&perline=4" width="58" height="58" alt="core stack" />
 </div>
 
 <br/>
@@ -79,7 +69,7 @@
 <tr>
 <td align="right"><b>☁️ Cloud · DevOps</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="48" height="48" alt="azure" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark&animate=true" width="48" height="48" alt="kubernetes" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu&theme=dark&animate=true" width="48" height="48" alt="ubuntu" />
@@ -123,4 +113,10 @@
 <h2>🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlyanPremani05/AlyanPremani05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<hr>
+
+<p align="center">
+  <sub><em>"aur bhi dukh hai zamany mai coding ke siwa"</em> — Alyan Premani</sub>
 </p>
