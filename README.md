@@ -117,7 +117,7 @@
 <h2>⚽ GitFut Card</h2>
 <p align="center">
   <a href="https://gitfut.com/AlyanPremani05" target="_blank">
-    <img src="https://gitfut.com/AlyanPremani05.png" alt="AlyanPremani05 GitFut card" />
+    <img src="https://gitfut.com/AlyanPremani05.png" alt="AlyanPremani05 GitFut card" width="300" />
   </a>
 </p>
 
