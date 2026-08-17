@@ -14,12 +14,12 @@
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyanPremani05&show_icons=true&theme=dark&locale=en&layout=compact" alt="AlyanPremani05"></p>
+<p><img align="left" src="https://github-readme-stats-nu-eight.vercel.app/api/top-langs?username=AlyanPremani05&show_icons=true&theme=dark&locale=en&layout=compact" alt="AlyanPremani05"></p>
 <p><br><br><br><br><br><br><br></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlyanPremani05&show_icons=true&theme=dark&locale=en" alt="AlyanPremani05"></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-nu-eight.vercel.app/api?username=AlyanPremani05&show_icons=true&theme=dark&locale=en" alt="AlyanPremani05"></p>
 <br><br><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://streak-stats.demolab.com?user=AlyanPremani05&theme=dark" alt="AlyanPremani05"></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Alyan Premani" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="
