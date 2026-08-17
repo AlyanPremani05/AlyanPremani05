@@ -119,6 +119,11 @@
   <img src="https://raw.githubusercontent.com/AlyanPremani05/AlyanPremani05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+<h2>GitFut</h2>
+<p align="center">
+  <img src="https://gitfut.com/AlyanPremani05" alt="GitFut" />
+</p>
+
 <hr>
 
 <p align="center">
