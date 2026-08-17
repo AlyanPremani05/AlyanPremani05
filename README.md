@@ -1,6 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alyan+Premani;CS+Student+%40+LUMS;Machine+Learning+%26+FinTech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</h1>
+<h1 align="center">Alyan Premani</h1>
+
+<p align="center">
+  <sub>CS Student · Open Source Contributor · Machine Learning Enthusiast</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alyan+Premani;CS+Student+%40+LUMS;Machine+Learning+%26+FinTech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alyan-premani" target="_blank">
@@ -10,6 +16,27 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlyanPremani05&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/AlyanPremani05?tab=followers"><img src="https://img.shields.io/github/followers/AlyanPremani05?label=Followers&style=for-the-badge&color=0077B5&logo=github" alt="Followers" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote" />
+</p>
+
+<h2>👋 Who I Am</h2>
+<table align="center">
+  <tr>
+    <td valign="top" width="55%">
+      <p>I'm a Computer Science student at LUMS, specializing in Machine Learning and Networks. Beyond coursework, I actively contribute to open-source projects and enjoy exploring how intelligent systems and the infrastructure connecting them come together — from building models to understanding the networks that carry their data.</p>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <img width="260" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding gif">
+    </td>
+  </tr>
+</table>
 
 <h2>🧰 Tech Stack</h2>
 
@@ -52,7 +79,7 @@
 <tr>
 <td align="right"><b>☁️ Cloud · DevOps</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="48" height="48" alt="azure" />
+  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark&animate=true" width="48" height="48" alt="kubernetes" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu&theme=dark&animate=true" width="48" height="48" alt="ubuntu" />
@@ -75,18 +102,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake&theme=dark&animate=true" width="48" height="48" alt="cmake" />
 </td>
 </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="55%">
-      <h3>👋 Who I Am</h3>
-      <p><!-- text coming later --></p>
-    </td>
-    <td valign="top" width="45%" align="center">
-      <img width="260" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding gif">
-    </td>
-  </tr>
 </table>
 
 <h2>📊 GitHub Stats</h2>
