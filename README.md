@@ -36,13 +36,13 @@
 
 <h2>🧰 Tech Stack</h2>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="58" height="58" alt="python" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
   &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="58" height="58" alt="azure" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
   &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="58" height="58" alt="docker" />
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark&animate=true" width="58" height="58" alt="kubernetes" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" /></div>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></div>
 </div>
 <br/>
 
