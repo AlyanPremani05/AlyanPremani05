@@ -1,12 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alyan+Premani;CS+Student+%40+LUMS;Machine+Learning+%26+FinTech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alyan+Premani;CS+Student+%40+LUMS;Machine+Learning+%26+FinTech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  A passionate Computer Science student at LUMS, enthusiastic about Machine Learning and Finance.
+  <a href="https://www.linkedin.com/in/alyan-premani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alyanpremani786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="right">
+<p align="center">
   <img width="260" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding gif">
 </p>
 
@@ -29,13 +34,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AlyanPremani05&theme=dark" alt="AlyanPremani05 streak" />
-</p>
-
-<h2>⚡️ Where to find me</h2>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/Alyan Premani">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-  </a>
 </p>
 
 <h2>🐍 Contribution Snake</h2>
