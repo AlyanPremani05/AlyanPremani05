@@ -41,8 +41,8 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" /></div>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></div>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
 </div>
 <br/>
 
